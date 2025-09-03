@@ -66,6 +66,33 @@ const Projects: React.FC = () => {
       live: "#",
       status: "Live",
       statusColor: "bg-green-100 text-green-800"
+    },
+    {
+      title: "Shipment Delivery Application",
+      description: "A logistics and shipment management application that allows users to track deliveries, manage shipments, and streamline the delivery workflow. Built for efficiency and real-time updates.",
+      technologies: ["React", "Node.js", "Express", "Tailwind CSS"],
+      github: "https://github.com/sathwikmerugu45/Shipment-Delivery-Application",
+      live: "https://shipment-delivery-application-gamma.vercel.app/",
+      status: "Live",
+      statusColor: "bg-green-100 text-green-800"
+    },
+    {
+      title: "E-Commerce Website",
+      description: "A modern e-commerce website built with a responsive frontend and backend support. It features product browsing, cart functionality, and a smooth checkout process with secure payments.",
+      technologies: ["React", "Node.js", "Express", "Tailwind CSS"],
+      github: "https://github.com/sathwikmerugu45/E-Commerce-Website",
+      live: "https://e-commerce-website-self-ten.vercel.app/",
+      status: "Live",
+      statusColor: "bg-green-100 text-green-800"
+    },
+    {
+      title: "Expat HOME",
+      description: "A community-focused portal for expatriates to find housing, connect with services, and build networks. It provides user-friendly listings and engagement tools for a better relocation experience.",
+      technologies: ["React", "Node.js", "Express", "Tailwind CSS"],
+      github: "https://github.com/sathwikmerugu45/Expat-HOME",
+      live: "https://expat-home-frontend.onrender.com/",
+      status: "Live",
+      statusColor: "bg-green-100 text-green-800"
     }
   ];
 
