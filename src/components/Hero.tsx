@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
             <div className="bg-white/70 backdrop-blur-sm rounded-lg px-6 py-3 shadow-sm border border-white/20">
               <div className="flex items-center space-x-2">
                 <Code className="text-blue-600" size={20} />
-                <span className="text-gray-700">Currently working on <strong>Netaccess-Website</strong></span>
+{/*                 <span className="text-gray-700">Currently working on <strong>Netaccess-Website</strong></span> */}
               </div>
             </div>
             <div className="bg-white/70 backdrop-blur-sm rounded-lg px-6 py-3 shadow-sm border border-white/20">
